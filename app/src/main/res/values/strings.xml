@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">DiceRoller</string>
+    <string name="heading">Dice Roller</string>
+    <string name="btn_label_d20">Roll d20</string>
+    <string name="btn_label_d6">Roll d6</string>
 </resources>
